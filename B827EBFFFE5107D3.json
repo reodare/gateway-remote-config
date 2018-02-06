@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5107D3",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 40.97067621,
+    "ref_longitude": 29.10054141,
+    "ref_altitude": 60,
+    "contact_email": "g.cakiroglu@outlook.com",
+    "description": "Tumsas001"
+  }
+}
